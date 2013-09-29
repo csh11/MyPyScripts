@@ -1,3 +1,1 @@
-This script automates the installation of epel packages 
-on centos/RHEL 4,5,6 
-
+This is a collection of my python scripts 
