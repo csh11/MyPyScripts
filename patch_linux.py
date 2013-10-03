@@ -37,7 +37,7 @@ def patch_linux():
     #######################
     #Patch Centos/RHEL    #
     #######################
-    elif flavor == 'CentOS':
+    elif flavor == 'CentOS Linux':
         import yum
         my = yum.YumBase()
         my.update()
