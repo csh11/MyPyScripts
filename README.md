@@ -7,4 +7,6 @@ This is a collection of my python scripts
    patches the system accordingly
 
 3. timesheet_reminder_deca.py ->  This script reminds me that its time to fill
-   out my time sheet 
+   out my time sheet
+
+4. netping.py -> This script is a cheap network ping sweeper :)
