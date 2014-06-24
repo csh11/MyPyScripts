@@ -5,3 +5,6 @@ This is a collection of my python scripts
 
 2. patch_linux.py -> This script checks the flavor of linux thats running and
    patches the system accordingly
+
+3. timesheet_reminder_deca.py ->  This script reminds me that its time to fill
+   out my time sheet 
